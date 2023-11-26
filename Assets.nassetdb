@@ -77,7 +77,8 @@
         "path": "Assets/Characters/Anne/Anne.scene.nasset",
         "thumbnail": "f914da56-289d-4fb6-9acf-53422d488676",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
@@ -349,7 +350,8 @@
         "path": "Assets/Characters/Mako/Mako.scene.nasset",
         "thumbnail": "1539724a-c923-42f5-8819-6e8538ddf4e4",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "a83c35b3-e047-b583-e314-5206a6564efb"
@@ -415,7 +417,8 @@
         "path": "Assets/Characters/Henry/Henry.scene.nasset",
         "thumbnail": "27683f74-0eae-4cd3-9a4e-3169d995ad7a",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "c94dffd2-440b-694e-753f-fa78dbb8d27e"
@@ -427,7 +430,8 @@
         "path": "Assets/Characters/Barbarossa/Barbarossa.scene.nasset",
         "thumbnail": "cb912832-b194-40cb-9faa-1ee113f4d35f",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "dc30e7d4-07ce-c5ed-b976-55ac747a7373"
@@ -1041,7 +1045,8 @@
         "path": "Assets/Characters/Tentacle/Tentacle.scene.nasset",
         "thumbnail": "18827236-fcf9-456f-81c5-5f3e2ed9e7c5",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "6f885455-7872-d421-e1a1-1f43a8d2aaec"
@@ -1490,7 +1495,8 @@
         "path": "Assets/Characters/Skully/Skully.scene.nasset",
         "thumbnail": "4447d0b3-0b88-475f-b5bd-146975439d8b",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "c374e97d-d614-845f-b8d4-d777ce86609f"
@@ -1847,7 +1853,8 @@
         "path": "Assets/Characters/Skeleton/Skeleton.scene.nasset",
         "thumbnail": "1ed74849-d15e-41fc-a4d1-132699a67f53",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "4467c4f3-f0df-1363-f354-e45e2c663437"
@@ -2310,7 +2317,8 @@
         "path": "Assets/Characters/Sharky/Sharky.scene.nasset",
         "thumbnail": "92c13fc1-26d3-4ce1-b4cb-aabaaa9ac204",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "d32eeda9-0de8-0bee-a690-b824ec29f31a"
@@ -2388,7 +2396,8 @@
         "path": "Assets/Characters/Shark/Shark.scene.nasset",
         "thumbnail": "4a7f418a-b6ab-4381-8c8b-30b29b07f48b",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "875e80a2-4c92-bac2-048f-4ea4ef4edfd3"
