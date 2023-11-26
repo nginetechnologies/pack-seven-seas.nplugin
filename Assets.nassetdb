@@ -17,6 +17,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Seven Seas.mtli.nasset.tex.nasset"
     },
+    "03b9f270-d553-4c61-a36d-daf9bc6dea27": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Tentacle/Tentacle_Attack_2.anim.nasset",
+        "dependencies": [
+            "90323109-7abd-431d-a732-9df17a31b92f"
+        ]
+    },
     "03fe077b-903f-87d7-248d-2b6697d8b3de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -297,6 +305,14 @@
         ],
         "dependencies": [
             "a83c35b3-e047-b583-e314-5206a6564efb"
+        ]
+    },
+    "18626061-6894-42fb-bd5e-3ae42c40f4e4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Tentacle/Tentacle_Attack.anim.nasset",
+        "dependencies": [
+            "90323109-7abd-431d-a732-9df17a31b92f"
         ]
     },
     "18827236-fcf9-456f-81c5-5f3e2ed9e7c5": {
@@ -977,6 +993,14 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Seven Seas Assets"
+    },
+    "5e65f368-6886-4b2c-8da8-542de05e9973": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Tentacle/Tentacle_Poke.anim.nasset",
+        "dependencies": [
+            "90323109-7abd-431d-a732-9df17a31b92f"
+        ]
     },
     "5ef182f1-2c92-5a99-8d05-67671b993d5f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1957,6 +1981,14 @@
         "dependencies": [
             "6c11faa7-8e6e-3bf6-dee3-975c2a905750",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3d234cd-9687-4407-b3b8-335e6b2a83d2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Tentacle/Tentacle_Idle.anim.nasset",
+        "dependencies": [
+            "90323109-7abd-431d-a732-9df17a31b92f"
         ]
     },
     "b3f2d203-25df-59fa-bcaf-e4830473a234": {

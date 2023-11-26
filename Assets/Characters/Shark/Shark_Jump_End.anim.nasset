@@ -1,0 +1,20 @@
+{
+    "source": "A_Shark_Jump_End.fbx",
+    "skeleton": "afb2beec-5e99-bb06-8481-c3e811fb2044",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "afb2beec-5e99-bb06-8481-c3e811fb2044"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "84f2bf33-6c31-4458-8348-520078f5f82e"
+        }
+    ],
+    "guid": "84f2bf33-6c31-4458-8348-520078f5f82e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "afb2beec-5e99-bb06-8481-c3e811fb2044"
+    ]
+}
