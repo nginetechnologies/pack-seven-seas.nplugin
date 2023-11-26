@@ -95,14 +95,6 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
-    "06bbdaaf-19c8-4f7c-90b6-1d51a0b422d9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Jump_Loop.anim.nasset",
-        "dependencies": [
-            "afb2beec-5e99-bb06-8481-c3e811fb2044"
-        ]
-    },
     "06dc4fc2-9fbe-6278-ab08-5be799f198f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -887,7 +879,13 @@
             "e4fce026-29dc-c41f-f2b5-4b5994f66778",
             "76f2cfc2-b992-923a-30d9-ae7859f408c5",
             "4ca52064-0d4c-3221-ba9b-315e84d9e11e",
-            "11a174f8-f314-16a2-444e-54e5016eefc3"
+            "11a174f8-f314-16a2-444e-54e5016eefc3",
+            "d7ab1939-6333-48b3-b5a7-6b906962b581",
+            "4e989a93-5214-4248-9e99-5bb5413dc367",
+            "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f",
+            "e33aab7d-d9b4-472d-8975-b2883c441db2",
+            "00c5dcd6-8069-4a81-8973-37e8f2b95396",
+            "61ecc37e-40ec-4d06-870c-6328e1c63b1b"
         ]
     },
     "458291da-e4ac-5d0f-9d65-3a3e740511c0": {
@@ -1412,7 +1410,8 @@
             "7876f91e-e8c6-bd86-5c82-3e221511c0a5",
             "21cbba69-650c-7b7a-f284-b8be8f9d3426",
             "fbb0ddb6-6c7c-8319-444f-738c084050b6",
-            "90323109-7abd-431d-a732-9df17a31b92f"
+            "90323109-7abd-431d-a732-9df17a31b92f",
+            "b3d234cd-9687-4407-b3b8-335e6b2a83d2"
         ]
     },
     "6f9f7492-99ff-4ac7-b62a-8fad366ab6aa": {
@@ -1585,14 +1584,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "84f2bf33-6c31-4458-8348-520078f5f82e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Jump_End.anim.nasset",
-        "dependencies": [
-            "afb2beec-5e99-bb06-8481-c3e811fb2044"
-        ]
-    },
     "855651ad-d44d-77d6-8773-570019624ff3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Thumbnails/Gem Pink.mesh.nasset.tex.nasset"
@@ -1651,7 +1642,9 @@
             "62235d94-965d-bd4f-78d6-9c737a1029f2",
             "0e74139e-b9e7-22e8-cd50-3b60690f72b6",
             "e8534353-a742-eee2-7744-23de6f1006ab",
-            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+            "afb2beec-5e99-bb06-8481-c3e811fb2044",
+            "ca025155-7015-46e7-98d1-7b05032c45d6",
+            "d9518c6c-657a-4c21-938d-9e4ad8301a96"
         ]
     },
     "876bb0bc-f877-e433-83eb-9804e91f07d3": {
@@ -1762,7 +1755,13 @@
             "29fa0129-43b8-a527-5547-b4c78b599983",
             "d3be0d57-06ef-2e0f-ad9c-4572d7d1afaf",
             "458291da-e4ac-5d0f-9d65-3a3e740511c0",
-            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
+            "ac76f590-c349-41be-9e33-0411843c7fd1",
+            "55526a5b-923e-4ad4-abab-a0c48ea2f084",
+            "06b1c410-90c6-4516-97ab-ba6436baea43",
+            "a1df851c-6f49-43f3-a8d1-574a85f6dc14",
+            "fd3cfb92-6250-48cc-a1ba-8bc66ea66a86",
+            "003e62ff-094a-4488-882e-ebe62c5f6ab1"
         ]
     },
     "8f46b608-af31-cb09-2c14-01c28dfe14f1": {
@@ -2055,7 +2054,13 @@
             "ed3ad9e0-8a92-4573-67b1-8acbea22e7a4",
             "b3f2d203-25df-59fa-bcaf-e4830473a234",
             "e2f92be9-bd07-e23a-de4c-b05bfe5bb6e2",
-            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a",
+            "3f5ba5f1-58a2-4efa-9c26-c22514f9ca98",
+            "b356ea36-cb08-4135-af05-528dc84c866e",
+            "bc286ed3-9e38-4a48-9718-0cbde1b378f0",
+            "3fa71324-9849-41c9-b362-f19e15ae3cb9",
+            "35168fb1-fe4e-4fbb-926c-d67e61ca7413",
+            "74b93f23-fbc2-4ea7-984d-96f731175911"
         ]
     },
     "a8a4f4be-1794-993f-d199-cd74cf2d508c": {
@@ -2431,7 +2436,13 @@
             "a95bcfb4-5380-6b1a-77b7-62860ea8d5e1",
             "28158fb0-31bd-a0e8-1ce7-98b2ad5607f5",
             "bb37c7d8-1aa2-a35b-4128-cf6237120a08",
-            "a9ed7597-518d-a714-52f2-acbb90153df8"
+            "a9ed7597-518d-a714-52f2-acbb90153df8",
+            "ade9f0b8-5fb2-4803-bbd5-f2cbc675a264",
+            "a1e47100-eba0-49a0-8dbb-5f8336dac8f9",
+            "6f9f7492-99ff-4ac7-b62a-8fad366ab6aa",
+            "ee3ec7df-206c-467a-a3bd-dc66f440f0ba",
+            "97387b2b-acda-4a83-b71b-50ae094fb21a",
+            "7cd1b0c1-2e14-4262-a3a4-bd14dc72f001"
         ]
     },
     "c38f99f6-0a11-9e17-276a-633c4ba64a31": {
@@ -2517,13 +2528,19 @@
             "fa552026-5ff2-5e41-ea25-2168eb8b135c",
             "a7d69313-d91f-a085-dd38-5699e5fae18f",
             "8d33d7a2-0b14-159f-3f83-f2ffe29313cf",
-            "68ff23b1-8497-9c32-db1b-d559d772ab03"
+            "68ff23b1-8497-9c32-db1b-d559d772ab03",
+            "a2468935-d360-4990-ae37-c1e003dcaee8",
+            "c0711be9-afa6-46bf-a455-9bb2e35093dc",
+            "1a4c71d1-c841-46d8-9f7f-99a54686d5cc",
+            "540216b6-dc4f-4aa2-8982-2e3d52ecb491",
+            "56c4e43e-e946-4acb-a85d-8e41c89c79ac",
+            "dbf35b85-0868-49b0-aa11-eb11772fbc9a"
         ]
     },
     "ca025155-7015-46e7-98d1-7b05032c45d6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Walk.anim.nasset",
+        "path": "Assets/Characters/Shark/Shark_Swim.anim.nasset",
         "dependencies": [
             "afb2beec-5e99-bb06-8481-c3e811fb2044"
         ]
@@ -2642,7 +2659,13 @@
             "0c4a7db2-cd3a-286d-ea4d-6627c370f864",
             "a6d28efc-157c-fbff-857c-eb421a2f0778",
             "60f842c4-685c-16a4-da8d-25573a37ca35",
-            "71d30070-d622-657d-2cdb-4a4da13a4078"
+            "71d30070-d622-657d-2cdb-4a4da13a4078",
+            "c0625703-f47a-4b62-b313-0c56ffdaf7fa",
+            "ae532e47-1b98-4b7e-832f-6bb51004fae0",
+            "d8cdda57-ba24-494a-986b-26f7a6dc7a28",
+            "e3cd124c-e25d-4ed1-bdb9-b3282154688e",
+            "cccba5de-23f7-4ce5-9f33-888a1e1323d3",
+            "073de270-060b-4159-b9db-c1a560db7e91"
         ]
     },
     "d3be0d57-06ef-2e0f-ad9c-4572d7d1afaf": {
@@ -2712,7 +2735,7 @@
     "d9518c6c-657a-4c21-938d-9e4ad8301a96": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Run.anim.nasset",
+        "path": "Assets/Characters/Shark/Shark_Swim_Fast.anim.nasset",
         "dependencies": [
             "afb2beec-5e99-bb06-8481-c3e811fb2044"
         ]
@@ -2738,7 +2761,7 @@
     "dbb3ded5-2791-4a39-941a-bcd08295d179": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Idle.anim.nasset",
+        "path": "Assets/Characters/Shark/Shark_Bite.anim.nasset",
         "dependencies": [
             "afb2beec-5e99-bb06-8481-c3e811fb2044"
         ]
@@ -2763,7 +2786,13 @@
             "6c11faa7-8e6e-3bf6-dee3-975c2a905750",
             "d30ee3e7-d554-270c-f965-7646dc5fc9bd",
             "30fb23ab-37b5-12a2-9a6b-a7c23214faaf",
-            "a4731a98-c04e-4034-1f39-204002b89be5"
+            "a4731a98-c04e-4034-1f39-204002b89be5",
+            "af5ca6b3-b796-4979-9db7-330454464837",
+            "5de42609-2b48-40bc-a47a-f46dea3e19a7",
+            "6eec2622-8a3c-4a2e-9e9a-fc31562a141c",
+            "387fa9b3-0188-4ad8-9da9-5c0590ce8230",
+            "149bb4de-aa79-48e2-8c28-485117f449a5",
+            "077b0cef-97de-4c57-9da0-52525200b1cf"
         ]
     },
     "dd5da33b-3d22-e16f-8c0f-b3e770a4d15a": {
@@ -3231,14 +3260,6 @@
         "path": "Assets/Characters/Anne/Anne_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
-        ]
-    },
-    "fd744e80-cdef-4317-a1e5-3827676dc05b": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Shark/Shark_Jump_Start.anim.nasset",
-        "dependencies": [
-            "afb2beec-5e99-bb06-8481-c3e811fb2044"
         ]
     },
     "fe20a2eb-eeac-a345-2107-b5165069b81d": {
