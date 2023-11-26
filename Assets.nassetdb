@@ -1,4 +1,20 @@
 {
+    "003e62ff-094a-4488-882e-ebe62c5f6ab1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "00c5dcd6-8069-4a81-8973-37e8f2b95396": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
+        ]
+    },
     "02b46463-02d7-6566-fd55-0afc1fba1e10": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -71,6 +87,22 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Thumbnails/Bucket Fishes.mesh.nasset.tex.nasset"
     },
+    "06b1c410-90c6-4516-97ab-ba6436baea43": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "06bbdaaf-19c8-4f7c-90b6-1d51a0b422d9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+        ]
+    },
     "06dc4fc2-9fbe-6278-ab08-5be799f198f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -83,6 +115,22 @@
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "4f664233-aeac-41f2-32e2-934d8a944dec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "073de270-060b-4159-b9db-c1a560db7e91": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Jump_End.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
+        ]
+    },
+    "077b0cef-97de-4c57-9da0-52525200b1cf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Jump_End.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
         ]
     },
     "093296a6-aa00-f753-1152-97f0fd61e345": {
@@ -263,6 +311,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Thumbnails/Wheat.mesh.nasset.tex.nasset"
     },
+    "149bb4de-aa79-48e2-8c28-485117f449a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
+        ]
+    },
     "1539724a-c923-42f5-8819-6e8538ddf4e4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mako/Thumbnails/Mako.scene.nasset.tex.nasset"
@@ -351,6 +407,14 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a4c71d1-c841-46d8-9f7f-99a54686d5cc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Run.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
     "1ac689ac-8ae0-4ce6-89e4-6d0ad9fe4d6c": {
@@ -639,6 +703,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "35168fb1-fe4e-4fbb-926c-d67e61ca7413": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
+    },
+    "387fa9b3-0188-4ad8-9da9-5c0590ce8230": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Jump_Start.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
+        ]
+    },
     "3922ab7d-d29b-4e86-8628-ae2fb04c7677": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Thumbnails/Gem Green.mesh.nasset.tex.nasset"
@@ -654,6 +734,14 @@
     "39f016e0-4f9e-880a-5c0f-340ab04ac588": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Thumbnails/Rock 4.mesh.nasset.tex.nasset"
+    },
+    "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Run.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
+        ]
     },
     "3a91a48b-3df1-0396-6a39-5f75c061ea99": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -723,6 +811,14 @@
             "4467c4f3-f0df-1363-f354-e45e2c663437"
         ]
     },
+    "3f5ba5f1-58a2-4efa-9c26-c22514f9ca98": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Idle.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
+    },
     "3f9c5fe7-51f3-f35c-73b0-7a0b2206e318": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -733,6 +829,14 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3fa71324-9849-41c9-b362-f19e15ae3cb9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Jump_Start.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
         ]
     },
     "406e859d-0484-28c8-ea74-fdd71d63b628": {
@@ -890,6 +994,14 @@
             "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
         ]
     },
+    "4e989a93-5214-4248-9e99-5bb5413dc367": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Walk.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
+        ]
+    },
     "4f4fcd93-e327-9951-75df-79c39e088fb4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Seven Seas.mtli.nasset",
@@ -949,6 +1061,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "540216b6-dc4f-4aa2-8982-2e3d52ecb491": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Jump_Start.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
+        ]
+    },
+    "55526a5b-923e-4ad4-abab-a0c48ea2f084": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "5633dec3-9e04-b001-05ef-66b85415f6b8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -959,6 +1087,14 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "56c4e43e-e946-4acb-a85d-8e41c89c79ac": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
     "599d0aab-0a99-8615-a644-a2998ce9ee59": {
@@ -993,6 +1129,14 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Seven Seas Assets"
+    },
+    "5de42609-2b48-40bc-a47a-f46dea3e19a7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Walk.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
+        ]
     },
     "5e65f368-6886-4b2c-8da8-542de05e9973": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1044,6 +1188,14 @@
             "a6d28efc-157c-fbff-857c-eb421a2f0778",
             "71d30070-d622-657d-2cdb-4a4da13a4078",
             "0c4a7db2-cd3a-286d-ea4d-6627c370f864"
+        ]
+    },
+    "61ecc37e-40ec-4d06-870c-6328e1c63b1b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Jump_End.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
         ]
     },
     "62235d94-965d-bd4f-78d6-9c737a1029f2": {
@@ -1228,6 +1380,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6eec2622-8a3c-4a2e-9e9a-fc31562a141c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Run.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
+        ]
+    },
     "6f6c6ea9-8b41-7a3a-cbd0-d7fe51534718": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1255,6 +1415,14 @@
             "90323109-7abd-431d-a732-9df17a31b92f"
         ]
     },
+    "6f9f7492-99ff-4ac7-b62a-8fad366ab6aa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Run.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
+        ]
+    },
     "71d30070-d622-657d-2cdb-4a4da13a4078": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1267,6 +1435,14 @@
     "72bda891-3002-559e-bece-e2ab8f885d27": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Thumbnails/Double Shotgun.mesh.nasset.tex.nasset"
+    },
+    "74b93f23-fbc2-4ea7-984d-96f731175911": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Jump_End.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
     },
     "752bf940-ec30-aef1-5e9f-0924eb05db70": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1328,6 +1504,14 @@
     "7c14094a-bb80-9a50-5de4-6c0321836011": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Thumbnails/Cliff 2.mesh.nasset.tex.nasset"
+    },
+    "7cd1b0c1-2e14-4262-a3a4-bd14dc72f001": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Jump_End.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
+        ]
     },
     "7d444793-6f4b-bbec-3111-30d4b35be16b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1399,6 +1583,14 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "84f2bf33-6c31-4458-8348-520078f5f82e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Jump_End.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
         ]
     },
     "855651ad-d44d-77d6-8773-570019624ff3": {
@@ -1638,6 +1830,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "97387b2b-acda-4a83-b71b-50ae094fb21a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
+        ]
+    },
     "974e0735-e9ae-cd3d-2f3a-1dfab990d162": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Thumbnails/Red Dash.mesh.nasset.tex.nasset"
@@ -1740,6 +1940,30 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a1df851c-6f49-43f3-a8d1-574a85f6dc14": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "a1e47100-eba0-49a0-8dbb-5f8336dac8f9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Walk.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
+        ]
+    },
+    "a2468935-d360-4990-ae37-c1e003dcaee8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Idle.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
     "a3ee9faa-475b-415b-a3ea-e8af7856f0ae": {
@@ -1946,9 +2170,41 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ac76f590-c349-41be-9e33-0411843c7fd1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "ade9f0b8-5fb2-4803-bbd5-f2cbc675a264": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Idle.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
+        ]
+    },
     "ae489939-37c4-4f5e-dc05-e1fcbc48e5da": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Thumbnails/Barrel.mesh.nasset.tex.nasset"
+    },
+    "ae532e47-1b98-4b7e-832f-6bb51004fae0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Walk.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
+        ]
+    },
+    "af5ca6b3-b796-4979-9db7-330454464837": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Barbarossa/Barbarossa_Idle.anim.nasset",
+        "dependencies": [
+            "a4731a98-c04e-4034-1f39-204002b89be5"
+        ]
     },
     "afb2beec-5e99-bb06-8481-c3e811fb2044": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -1970,6 +2226,14 @@
     "b28ea836-5a52-15e4-6cf9-b7c10d679a11": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Thumbnails/Cliff 1.mesh.nasset.tex.nasset"
+    },
+    "b356ea36-cb08-4135-af05-528dc84c866e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Walk.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
     },
     "b37afbc8-8378-c756-d8fb-547dc5227c00": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2101,6 +2365,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Thumbnails/Gold Bag.mesh.nasset.tex.nasset"
     },
+    "bc286ed3-9e38-4a48-9718-0cbde1b378f0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mako/Mako_Run.anim.nasset",
+        "dependencies": [
+            "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
+    },
     "bfb3a2c4-58f8-ed49-ea25-5d3cd2312574": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Window.mtli.nasset.tex.nasset"
@@ -2115,6 +2387,22 @@
         ],
         "dependencies": [
             "875e80a2-4c92-bac2-048f-4ea4ef4edfd3"
+        ]
+    },
+    "c0625703-f47a-4b62-b313-0c56ffdaf7fa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Idle.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
+        ]
+    },
+    "c0711be9-afa6-46bf-a455-9bb2e35093dc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Walk.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
     "c1b42703-c557-4742-3e7e-f9987e90a9f6": {
@@ -2232,6 +2520,14 @@
             "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
+    "ca025155-7015-46e7-98d1-7b05032c45d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Walk.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+        ]
+    },
     "cb912832-b194-40cb-9faa-1ee113f4d35f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Barbarossa/Thumbnails/Barbarossa.scene.nasset.tex.nasset"
@@ -2248,6 +2544,14 @@
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "b4dee6a9-f7bf-3076-b9c0-266b523301eb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cccba5de-23f7-4ce5-9f33-888a1e1323d3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
         ]
     },
     "cd4c4cf7-7b45-f1a9-7479-59edbe577166": {
@@ -2385,9 +2689,33 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Skeleton/SK_Skeleton.scene.nasset/SK Skeleton.mesh.nasset/Thumbnails/SK Skeleton.mesh.nasset.tex.nasset"
     },
+    "d7ab1939-6333-48b3-b5a7-6b906962b581": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Idle.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
+        ]
+    },
     "d8511f43-1299-fac7-5e6f-5fa252c5ae98": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/Thumbnails/House 3.mesh.nasset.tex.nasset"
+    },
+    "d8cdda57-ba24-494a-986b-26f7a6dc7a28": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Run.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
+        ]
+    },
+    "d9518c6c-657a-4c21-938d-9e4ad8301a96": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Run.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+        ]
     },
     "d99b66f5-2e91-561f-dea2-03251b23e8c6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2405,6 +2733,22 @@
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "cd4c4cf7-7b45-f1a9-7479-59edbe577166",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dbb3ded5-2791-4a39-941a-bcd08295d179": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Idle.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+        ]
+    },
+    "dbf35b85-0868-49b0-aa11-eb11772fbc9a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Henry/Henry_Jump_End.anim.nasset",
+        "dependencies": [
+            "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
     "dc30e7d4-07ce-c5ed-b976-55ac747a7373": {
@@ -2577,6 +2921,22 @@
             "ed3ad9e0-8a92-4573-67b1-8acbea22e7a4"
         ]
     },
+    "e33aab7d-d9b4-472d-8975-b2883c441db2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skeleton/Skeleton_Jump_Start.anim.nasset",
+        "dependencies": [
+            "11a174f8-f314-16a2-444e-54e5016eefc3"
+        ]
+    },
+    "e3cd124c-e25d-4ed1-bdb9-b3282154688e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Sharky/Sharky_Jump_Start.anim.nasset",
+        "dependencies": [
+            "71d30070-d622-657d-2cdb-4a4da13a4078"
+        ]
+    },
     "e4fce026-29dc-c41f-f2b5-4b5994f66778": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Skeleton/Material Instances/Skeleton.mtli.nasset",
@@ -2681,6 +3041,14 @@
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "266f54b4-0613-800b-617e-cf59dab3910b"
+        ]
+    },
+    "ee3ec7df-206c-467a-a3bd-dc66f440f0ba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Skully/Skully_Jump_Start.anim.nasset",
+        "dependencies": [
+            "a9ed7597-518d-a714-52f2-acbb90153df8"
         ]
     },
     "ee71a4ab-997b-c7c1-05ea-09414c10170d": {
@@ -2856,6 +3224,22 @@
     "fd27d9d9-d354-96e9-7124-c9782ff21a17": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Thumbnails/Gem Blue.mesh.nasset.tex.nasset"
+    },
+    "fd3cfb92-6250-48cc-a1ba-8bc66ea66a86": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Anne/Anne_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "fd744e80-cdef-4317-a1e5-3827676dc05b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Shark/Shark_Jump_Start.anim.nasset",
+        "dependencies": [
+            "afb2beec-5e99-bb06-8481-c3e811fb2044"
+        ]
     },
     "fe20a2eb-eeac-a345-2107-b5165069b81d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
