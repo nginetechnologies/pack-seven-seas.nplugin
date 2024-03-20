@@ -1,0 +1,9 @@
+{
+    "guid": "dea84552-2545-8039-e337-38ef20996d9f",
+    "source": "S_Pirate_Footstep_Dirt.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "dea84552-2545-8039-e337-38ef20996d9f"
+    }
+}

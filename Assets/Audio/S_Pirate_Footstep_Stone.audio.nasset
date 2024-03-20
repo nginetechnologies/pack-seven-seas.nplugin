@@ -1,0 +1,9 @@
+{
+    "guid": "f76a4eb0-ac4a-03c6-9314-b0552f359353",
+    "source": "S_Pirate_Footstep_Stone.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "f76a4eb0-ac4a-03c6-9314-b0552f359353"
+    }
+}
