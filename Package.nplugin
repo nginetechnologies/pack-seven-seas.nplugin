@@ -2,6 +2,7 @@
     "name": "Seven Seas Assets",
     "version": "1.0",
     "guid": "5dbfb528-5caf-4d8a-9f34-9c4b9a396a41",
+    "database_guid": "94b6ddbe-7c35-bee0-12e8-eb84f8ba08a2",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "asset_directory": "Assets",
     "plugin_dependencies": [
