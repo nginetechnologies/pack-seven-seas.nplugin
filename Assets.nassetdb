@@ -23,7 +23,7 @@
     "02b46463-02d7-6566-fd55-0afc1fba1e10": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Chest Gold.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Chest Gold.mesh.nasset",
         "thumbnail": "39d374a1-05c1-ce5c-aaee-ba9d8b55a505",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -36,7 +36,7 @@
     },
     "0357598f-0e45-3a94-f4a0-7fa28137164c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Seven Seas.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Seven Seas.mtli.nasset.tex.nasset"
     },
     "03b9f270-d553-4c61-a36d-daf9bc6dea27": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -49,7 +49,7 @@
     "03fe077b-903f-87d7-248d-2b6697d8b3de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Gem Blue.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Gem Blue.mesh.nasset",
         "thumbnail": "fd27d9d9-d354-96e9-7124-c9782ff21a17",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -67,7 +67,7 @@
     "05696799-a562-70da-9e5b-c875f30f915b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Gold Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Gold Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -91,7 +91,7 @@
     },
     "061e0842-c430-40b3-8513-6899330c5775": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Thumbnails/Bucket Fishes.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Thumbnails/Bucket Fishes.mesh.nasset.tex.nasset"
     },
     "06b1c410-90c6-4516-97ab-ba6436baea43": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -104,7 +104,7 @@
     "06dc4fc2-9fbe-6278-ab08-5be799f198f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Rock 4.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Rock 4.mesh.nasset",
         "thumbnail": "39f016e0-4f9e-880a-5c0f-340ab04ac588",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -131,22 +131,21 @@
             "a4731a98-c04e-4034-1f39-204002b89be5"
         ]
     },
-    "09214b8d-768b-789f-68c6-d125849fa7ea": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 1.001.mesh.nasset/Cliff 1.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "093296a6-aa00-f753-1152-97f0fd61e345": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Thumbnails/Lute.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Thumbnails/Lute.mesh.nasset.tex.nasset"
     },
     "0a544762-03a3-2bf6-97f9-be029ef207c1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 3.mesh.nasset/Palm Slim 3.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "75050a88-f690-5029-c1e8-199b116e5b96",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0ab91624-8e17-f59f-bbcd-5920f2c9aae6": {
@@ -156,7 +155,7 @@
     "0be03278-5f65-43a9-f73c-ad3842be2de3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Dock Pole Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Dock Pole Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -177,7 +176,7 @@
     "0d4d5daf-d4eb-2dc0-0cc1-90b6b4d070f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Large Bones Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Large Bones Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -205,7 +204,7 @@
     "0fdeb362-ac05-f153-24de-278be1abe8a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Axe.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Axe.mesh.nasset",
         "thumbnail": "d5920782-37c4-cfe9-6eec-6a108e84d772",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -219,7 +218,7 @@
     "1013762a-ee36-bfbb-7d6f-2dedf184f5c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Red Dash Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Red Dash Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -239,7 +238,7 @@
     "104bd064-10eb-2820-b331-c69aca5e59d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3.mesh.nasset",
         "thumbnail": "d8511f43-1299-fac7-5e6f-5fa252c5ae98",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -260,7 +259,7 @@
     "1291111a-eb0f-8f28-f094-089028cfdd6b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Bottle 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Bottle 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -272,7 +271,7 @@
     "130d3cf8-554d-fb57-5c6e-cc43defac977": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Fish Mackerel Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Fish Mackerel Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -284,7 +283,7 @@
     "13344212-6023-5b2f-c5a4-37798fe41d8c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Dock Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Dock Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -296,7 +295,7 @@
     "133f2ec5-94d7-7ec6-b574-d31ec782922e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Rock 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Rock 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -307,15 +306,21 @@
     },
     "135063f6-0e3e-d9ca-23ca-2153d635c7a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump.mesh.nasset/Stump.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "995772db-50fb-3784-5c5c-4dd7597c94a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "143dd714-2e4a-14ad-ea71-80c04775c4b9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Paper.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Paper.mesh.nasset",
         "thumbnail": "2041180f-9acc-25ba-d68b-d5abbba004f6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -328,7 +333,7 @@
     },
     "147c3aad-1faf-4ba1-a1d6-bc33b3b186e2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Thumbnails/Wheat.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Thumbnails/Wheat.mesh.nasset.tex.nasset"
     },
     "149bb4de-aa79-48e2-8c28-485117f449a5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -345,7 +350,7 @@
     "15f1e787-0e72-975e-5bf8-3fb38c5a9438": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Double Shotgun Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Double Shotgun Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -357,7 +362,7 @@
     "1661811d-b1ea-c87a-d6ed-6e0f316f6d55": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Red X Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Red X Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -410,7 +415,7 @@
     "1a1024c3-9696-96b0-d91b-3ae0c2297972": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Dock Broken.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Dock Broken.mesh.nasset",
         "thumbnail": "bb85c153-16d0-f5b0-8e87-312eb22896a8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -424,7 +429,7 @@
     "1a20e789-c68b-8eda-d152-ed52ccb88875": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Wheat Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Wheat Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -475,7 +480,7 @@
     "1cac2c6e-ad47-952e-d11c-f651312d0b56": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Bottle 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Bottle 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -486,12 +491,12 @@
     },
     "1e7332b3-dc92-9f60-a34f-6a24afd4f55d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Thumbnails/Double Axe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Thumbnails/Double Axe.mesh.nasset.tex.nasset"
     },
     "1e825a11-00f2-3bd7-89db-ea705743b13b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2.mesh.nasset",
         "thumbnail": "baa05442-76d1-8e5a-66f5-0ffe5d0a74a9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -528,7 +533,7 @@
     "1f7c8959-26c1-f256-e1c9-41572f29b3a4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Gold Bag Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Gold Bag Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -543,12 +548,12 @@
     },
     "2041180f-9acc-25ba-d68b-d5abbba004f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Thumbnails/Paper.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Thumbnails/Paper.mesh.nasset.tex.nasset"
     },
     "20449f35-dcfa-2cab-15de-da794a73c9c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/PalmTree 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/PalmTree 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -587,13 +592,19 @@
     },
     "250214dc-0fa1-30d3-576b-49b518e2ed77": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Thumbnails/Red X.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Thumbnails/Red X.mesh.nasset.tex.nasset"
     },
     "262c5064-b619-5827-0f9b-ec2efca6dcf6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ocean.mesh.nasset/Ocean.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "63f418f8-cf19-d284-0b2f-cda8a8c8bec7",
+            "5f4875a2-eb0a-9609-f429-5342e685c7be",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "266f54b4-0613-800b-617e-cf59dab3910b": {
@@ -603,7 +614,7 @@
     "2676b293-1a79-0b79-1b12-4e52bba5d52b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Cliff 4.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Cliff 4.mesh.nasset",
         "thumbnail": "e2d461e8-52c4-ceb1-bab4-a7ee45ceb744",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -616,9 +627,15 @@
     },
     "26c7cdfb-ae00-bf9a-2027-b28ead68c8a8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lilypad.mesh.nasset/Lilypad.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "bf1a4479-6b4b-ea46-4588-d013a79fd596",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "27683f74-0eae-4cd3-9a4e-3169d995ad7a": {
@@ -628,7 +645,7 @@
     "278a726d-f6d0-16d9-20d1-2d9731117f13": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Rocks Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Rocks Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -652,7 +669,7 @@
     "292d178d-5c1b-93a2-447e-7344973a7b7a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Fish Mackerel.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Fish Mackerel.mesh.nasset",
         "thumbnail": "7a5c64ff-1603-d09f-89ab-c518b933d742",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -662,6 +679,10 @@
             "130d3cf8-554d-fb57-5c6e-cc43defac977",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "298f5627-8e72-4e8e-87b5-e991537c65a9": {
+        "assetTypeGuid": "ded54a50-9829-41c5-a9b7-189387705aa7",
+        "path": "Assets/UI/HUD/Widgets/Pirate HUD.widget.nasset"
     },
     "29fa0129-43b8-a527-5547-b4c78b599983": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -683,7 +704,7 @@
     "2c14794c-505a-c845-df9b-837a92f4cd02": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Gold.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Gold.mesh.nasset",
         "thumbnail": "c4db27c3-5c80-df6d-f84c-9c375cb852df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -697,7 +718,7 @@
     "2c575a0c-8e73-b2cb-399f-51d4065ff1ef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Fish Tuna.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Fish Tuna.mesh.nasset",
         "thumbnail": "4acbe02c-b5ea-8dcb-484d-c501172aa454",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -711,7 +732,7 @@
     "2c9713de-94fb-dded-09de-95e0d1f28061": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Ship Large Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Ship Large Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -756,15 +777,21 @@
     },
     "325b9540-ba22-bc3f-a2aa-579913a403ef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 3.mesh.nasset/Grass 3.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "eb74e662-c4e9-fde1-2d0f-78566316e719",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "329ecee9-44f5-7678-65fb-c48ab2e49a1d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Sawmill Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Sawmill Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -775,12 +802,12 @@
     },
     "331a12b3-b0ec-5549-650a-cad2e856cb0a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Thumbnails/Sword 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Thumbnails/Sword 1.mesh.nasset.tex.nasset"
     },
     "33ad5ff0-8005-d27d-3745-11dfff5920fb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Bucket.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Bucket.mesh.nasset",
         "thumbnail": "4bd0c211-9af5-6019-22ee-1fbe989c058e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -794,7 +821,7 @@
     "3405685f-7f77-b116-8ba0-fcaaf71a9379": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Rock 3 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Rock 3 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -826,7 +853,7 @@
     },
     "3922ab7d-d29b-4e86-8628-ae2fb04c7677": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Thumbnails/Gem Green.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Thumbnails/Gem Green.mesh.nasset.tex.nasset"
     },
     "397aec7f-d9e5-1388-cddd-4c8281b37558": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -834,11 +861,11 @@
     },
     "39d374a1-05c1-ce5c-aaee-ba9d8b55a505": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Thumbnails/Chest Gold.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Thumbnails/Chest Gold.mesh.nasset.tex.nasset"
     },
     "39f016e0-4f9e-880a-5c0f-340ab04ac588": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Thumbnails/Rock 4.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Thumbnails/Rock 4.mesh.nasset.tex.nasset"
     },
     "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -851,7 +878,7 @@
     "3a91a48b-3df1-0396-6a39-5f75c061ea99": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Cutlass.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Cutlass.mesh.nasset",
         "thumbnail": "770534cf-e4ec-061d-9f86-a86efdf7903b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -865,7 +892,7 @@
     "3a92c280-1e20-d391-dd80-25c2cdbce9a2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Ship Large.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Ship Large.mesh.nasset",
         "thumbnail": "894622be-cbc4-0f74-1e30-f012557fdf9f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -883,7 +910,7 @@
     "3dacd9b3-38ed-2831-1875-a93819a8e9d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1 Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1 Window.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -895,7 +922,7 @@
     "3e014c74-1505-6dda-6b2c-5297f829470b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Dagger Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Dagger Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -906,19 +933,7 @@
     },
     "3e600310-91ea-9e10-cc50-046270d20bea": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Thumbnails/Rocks.mesh.nasset.tex.nasset"
-    },
-    "3ebbb333-648b-2d2f-42a3-cf6a1c991c33": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 2.001.mesh.nasset/Cliff 2.001 Seven Seas.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4f4fcd93-e327-9951-75df-79c39e088fb4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Thumbnails/Rocks.mesh.nasset.tex.nasset"
     },
     "3efc4374-053c-b90c-32a2-fe9e07b6dd9a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -939,7 +954,7 @@
     "3f9c5fe7-51f3-f35c-73b0-7a0b2206e318": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Cannon Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Cannon Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -963,7 +978,7 @@
     "423d1a9e-a0c8-622f-b580-20c81e0fc664": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Sword 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Sword 2.mesh.nasset",
         "thumbnail": "7251aa12-a20d-0ac2-a59a-148df4c806d0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -982,7 +997,7 @@
     "42cb6460-36e0-ed44-1852-5840717f13eb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Skulls.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Skulls.mesh.nasset",
         "thumbnail": "7bedee63-b0e7-a339-5060-af1f8146d553",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1056,24 +1071,12 @@
     },
     "4671f1e5-93d1-9b58-7fba-4079f7e31e74": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Thumbnails/Large Bones.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Thumbnails/Large Bones.mesh.nasset.tex.nasset"
     },
     "46a851ce-2893-0c60-17c1-0103c32f38b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Paper Seven Seas.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4f4fcd93-e327-9951-75df-79c39e088fb4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "46c456a6-1d7e-1d8f-2b37-cdacd307a8c1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 3.001.mesh.nasset/Cliff 3.001 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Paper.mesh.nasset/Paper Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1085,7 +1088,7 @@
     "47b26367-15fd-fb79-0e3f-c2af7541a122": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Ship Small Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Ship Small Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1096,19 +1099,25 @@
     },
     "480ea74a-bf58-dcba-dee5-672272c838bd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Thumbnails/Chicken Leg.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Thumbnails/Chicken Leg.mesh.nasset.tex.nasset"
     },
     "4863f16a-bbc2-f810-0e88-97bf240e018a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 2.mesh.nasset/Palm Slim 2.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "3030aebf-9385-625a-a2d4-8e3407bfc0de",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "48d4dc8b-4306-8774-f2e3-a124d0bf3c80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Rock 3.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Rock 3.mesh.nasset",
         "thumbnail": "a952330f-8f72-5959-8333-c6d4e898dd4d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1125,16 +1134,16 @@
     },
     "4acbe02c-b5ea-8dcb-484d-c501172aa454": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Thumbnails/Fish Tuna.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Thumbnails/Fish Tuna.mesh.nasset.tex.nasset"
     },
     "4bd0c211-9af5-6019-22ee-1fbe989c058e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Thumbnails/Bucket.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Thumbnails/Bucket.mesh.nasset.tex.nasset"
     },
     "4c16d365-0964-507e-b923-047f3019a68b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Coins.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Coins.mesh.nasset",
         "thumbnail": "7e43a289-0e90-74f5-7c81-475975efd79f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1165,9 +1174,15 @@
     },
     "4dd53b29-3ab2-327b-1bf0-c868b305043a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 1.mesh.nasset/Grass 1.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "d76e1728-cc5a-7757-39e3-9670a8aa9875",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "4e989a93-5214-4248-9e99-5bb5413dc367": {
@@ -1180,7 +1195,7 @@
     },
     "4f4fcd93-e327-9951-75df-79c39e088fb4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Seven Seas.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Seven Seas.mtli.nasset",
         "thumbnail": "0357598f-0e45-3a94-f4a0-7fa28137164c",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
@@ -1190,7 +1205,7 @@
     "4f664233-aeac-41f2-32e2-934d8a944dec": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Rock 4 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 4.mesh.nasset/Rock 4 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1202,7 +1217,7 @@
     "50a016c0-0d8e-dc32-7cc9-fcbf00bd735c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Sawmill.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Sawmill.mesh.nasset",
         "thumbnail": "6c94cad4-59c0-8861-3465-cb266a519bb4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1229,7 +1244,7 @@
     "51f61c15-8106-25b4-1ca9-a9faf7960949": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Skulls Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Skulls Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1246,13 +1261,6 @@
             "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
-    "5444d5fc-bb8c-cd55-e8eb-9cc8f74e1a89": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 2.001.mesh.nasset/Cliff 2.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "55526a5b-923e-4ad4-abab-a0c48ea2f084": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1264,7 +1272,7 @@
     "5633dec3-9e04-b001-05ef-66b85415f6b8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1283,15 +1291,21 @@
     },
     "590b2c53-b19d-bf2c-303a-84c9674d33b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 4.mesh.nasset/Palm Slim 4.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "23b39e11-ab2d-4d50-784d-6b7bc6ac9bbd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "599d0aab-0a99-8615-a644-a2998ce9ee59": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Rock 5 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Rock 5 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1319,7 +1333,7 @@
     "5c974f1e-5e4f-3e73-9ccf-3670841c41fc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Gem Blue Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Gem Blue Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1343,9 +1357,15 @@
     },
     "5df03731-cbe2-297e-2ca6-057999c6a9a2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ground 1.mesh.nasset/Ground 1.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "81b8bf46-6bba-7371-4814-169c19969f61",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "5e65f368-6886-4b2c-8da8-542de05e9973": {
@@ -1362,7 +1382,7 @@
     },
     "5f075701-e83d-4c07-7483-a909f196eb92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Thumbnails/Bottle 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Thumbnails/Bottle 1.mesh.nasset.tex.nasset"
     },
     "5f4875a2-eb0a-9609-f429-5342e685c7be": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1379,7 +1399,7 @@
     "5f70a417-eaa3-b630-d2a5-81fe71cbd5f3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Cliff 4 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Cliff 4 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1391,7 +1411,7 @@
     "60d7969c-eeb1-2917-11c3-d202e8bab6bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Rocks.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rocks.mesh.nasset/Rocks.mesh.nasset",
         "thumbnail": "3e600310-91ea-9e10-cc50-046270d20bea",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1431,7 +1451,7 @@
     },
     "63793651-2163-3195-2b99-58dc214bd202": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Thumbnails/Rock 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Thumbnails/Rock 1.mesh.nasset.tex.nasset"
     },
     "63f418f8-cf19-d284-0b2f-cda8a8c8bec7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1443,7 +1463,7 @@
     "640d99d7-06e5-7611-860a-005e13671386": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Cutlass Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Cutlass Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1455,7 +1475,7 @@
     "6425020f-630c-01d9-6452-d0d24b200ce6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Cliff 3 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Cliff 3 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1467,7 +1487,7 @@
     "64494436-b3e8-2673-d814-dc7dd51fb219": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Bomb.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Bomb.mesh.nasset",
         "thumbnail": "a7cc314a-a799-cd19-da39-8d496823d419",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1481,7 +1501,7 @@
     "6450b7b2-fdc9-4ed2-981a-2493d208428d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/PalmTree 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/PalmTree 2.mesh.nasset",
         "thumbnail": "aa29d973-756b-31a4-8f97-b88d897c1118",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1494,9 +1514,15 @@
     },
     "65034f31-8656-e9fd-97a5-6d5a4052e5e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump Moss.mesh.nasset/Stump Moss.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "1f44261b-448d-ed9c-0c5b-538d6e43bc9f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "65804108-a8f7-634b-1578-b7192850eafc": {
@@ -1521,7 +1547,7 @@
     "670788c0-b83a-4828-434d-d9e7262f6f6d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Skull.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Skull.mesh.nasset",
         "thumbnail": "e2f566cd-96c0-2e35-ba85-2a054b794f6b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1535,7 +1561,7 @@
     "67d7cf71-4128-2d61-8eb1-eb00cfb1af8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3 Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3 Window.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1547,7 +1573,7 @@
     "68a74894-fecd-c8d3-da48-e96253568ef4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1568,7 +1594,7 @@
     "6b7a45f3-5822-01ae-f25a-953035ede0e8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Bucket Fishes Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Bucket Fishes Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1588,19 +1614,25 @@
     },
     "6c94cad4-59c0-8861-3465-cb266a519bb4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Thumbnails/Sawmill.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Thumbnails/Sawmill.mesh.nasset.tex.nasset"
     },
     "6d28e85f-eed6-0662-3633-5e6206c709f9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log.mesh.nasset/Wood Log.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "5ab0d7cf-52e9-2c2d-282c-c31e02d85888",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "6d9141bb-9213-c02c-9f92-62f3faed62ae": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/PalmTree 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/PalmTree 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1612,7 +1644,7 @@
     "6edc0f99-5a01-8b05-79e4-1e3945013e06": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/PalmTree 3.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/PalmTree 3.mesh.nasset",
         "thumbnail": "de1d9772-9673-bc88-b216-c8688384c2e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1634,7 +1666,7 @@
     "6f6c6ea9-8b41-7a3a-cbd0-d7fe51534718": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/PalmTree 3 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/PalmTree 3 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1678,11 +1710,11 @@
     },
     "7251aa12-a20d-0ac2-a59a-148df4c806d0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Thumbnails/Sword 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Thumbnails/Sword 2.mesh.nasset.tex.nasset"
     },
     "72bda891-3002-559e-bece-e2ab8f885d27": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Thumbnails/Double Shotgun.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Thumbnails/Double Shotgun.mesh.nasset.tex.nasset"
     },
     "74b93f23-fbc2-4ea7-984d-96f731175911": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1706,7 +1738,7 @@
     },
     "752bf940-ec30-aef1-5e9f-0924eb05db70": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Thumbnails/Bottle 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Thumbnails/Bottle 2.mesh.nasset.tex.nasset"
     },
     "76f2cfc2-b992-923a-30d9-ae7859f408c5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1722,7 +1754,7 @@
     },
     "770534cf-e4ec-061d-9f86-a86efdf7903b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Thumbnails/Cutlass.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cutlass.mesh.nasset/Thumbnails/Cutlass.mesh.nasset.tex.nasset"
     },
     "7876f91e-e8c6-bd86-5c82-3e221511c0a5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1735,11 +1767,11 @@
     },
     "7a5c64ff-1603-d09f-89ab-c518b933d742": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Thumbnails/Fish Mackerel.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Mackerel.mesh.nasset/Thumbnails/Fish Mackerel.mesh.nasset.tex.nasset"
     },
     "7aa81127-499d-9ba4-831d-685ac8dc8d91": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Window.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Window.mtli.nasset",
         "thumbnail": "bfb3a2c4-58f8-ed49-ea25-5d3cd2312574",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -1760,11 +1792,11 @@
     },
     "7bedee63-b0e7-a339-5060-af1f8146d553": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Thumbnails/Skulls.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skulls.mesh.nasset/Thumbnails/Skulls.mesh.nasset.tex.nasset"
     },
     "7c14094a-bb80-9a50-5de4-6c0321836011": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Thumbnails/Cliff 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Thumbnails/Cliff 2.mesh.nasset.tex.nasset"
     },
     "7cd1b0c1-2e14-4262-a3a4-bd14dc72f001": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1774,14 +1806,22 @@
             "a9ed7597-518d-a714-52f2-acbb90153df8"
         ]
     },
+    "7ce2a541-41ab-4827-bb0b-12d336688277": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71"
+        ]
+    },
     "7d444793-6f4b-bbec-3111-30d4b35be16b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Thumbnails/Chest Closed.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Thumbnails/Chest Closed.mesh.nasset.tex.nasset"
     },
     "7d75e303-9c4e-e78f-e720-9db9f865bbe2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Sword 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 2.mesh.nasset/Sword 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1792,19 +1832,25 @@
     },
     "7e43a289-0e90-74f5-7c81-475975efd79f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Thumbnails/Coins.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Thumbnails/Coins.mesh.nasset.tex.nasset"
     },
     "806d626a-a30b-94e4-bbc3-3d70a22f1e4b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ground 3.mesh.nasset/Ground 3.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "9df2c5b1-7794-d330-52b6-2d103e022b73",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "80867473-ae74-89e7-816e-2f95d32ec160": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Rock 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Rock 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1815,9 +1861,15 @@
     },
     "80a62b0d-0eb2-5d3e-044b-c24a3eeaf548": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 2.mesh.nasset/Grass 2.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "8d6342a7-973a-0336-02e2-e202b2c9cffb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "81b8bf46-6bba-7371-4814-169c19969f61": {
@@ -1835,7 +1887,7 @@
     "81e515a9-d495-7537-186b-aee2133fd664": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Red X.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Red X.mesh.nasset",
         "thumbnail": "250214dc-0fa1-30d3-576b-49b518e2ed77",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1849,7 +1901,7 @@
     "8429c9e4-c1ac-cfc6-91a4-45a2d032040c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Cliff 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Cliff 1.mesh.nasset",
         "thumbnail": "b28ea836-5a52-15e4-6cf9-b7c10d679a11",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1863,7 +1915,7 @@
     "844df268-44b7-e428-d2fb-9bbdcb94ae46": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Wood Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Wood Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1874,12 +1926,12 @@
     },
     "855651ad-d44d-77d6-8773-570019624ff3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Thumbnails/Gem Pink.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Thumbnails/Gem Pink.mesh.nasset.tex.nasset"
     },
     "855f1deb-f544-55fd-2704-604cf0ff566d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1.mesh.nasset",
         "thumbnail": "ff6f4500-b44f-0e21-cdb8-d6bd0d7c9134",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1895,7 +1947,7 @@
     "85cc35c6-7529-b2a4-e16b-90dea77ab087": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Axe Rifle.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Axe Rifle.mesh.nasset",
         "thumbnail": "a9a25d69-6cac-978f-92a0-aba6b58c11df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1909,7 +1961,7 @@
     "8605a53b-e580-2c49-4ca8-ec88c0496513": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Chest Gold Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Gold.mesh.nasset/Chest Gold Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1938,7 +1990,7 @@
     "876bb0bc-f877-e433-83eb-9804e91f07d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Gem Green.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Gem Green.mesh.nasset",
         "thumbnail": "3922ab7d-d29b-4e86-8628-ae2fb04c7677",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1952,7 +2004,7 @@
     "87c1a378-7888-7459-ba43-a90bf4b7cbec": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Bomb Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Bomb Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1964,7 +2016,7 @@
     "87c42b13-95c2-40a8-6ba2-b4e7bc6cdbd5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Dock Broken Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Dock Broken Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1983,12 +2035,12 @@
     },
     "894622be-cbc4-0f74-1e30-f012557fdf9f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Thumbnails/Ship Large.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Large.mesh.nasset/Thumbnails/Ship Large.mesh.nasset.tex.nasset"
     },
     "8972f720-6222-4619-bcae-b31b9bd5edef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Axe Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Axe Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2008,7 +2060,7 @@
     "8ca8e4d3-64f8-dff5-6b89-e6c99599b65d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Coins Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Coins.mesh.nasset/Coins Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2075,7 +2127,7 @@
     "8f46b608-af31-cb09-2c14-01c28dfe14f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Anchor.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Anchor.mesh.nasset",
         "thumbnail": "cf65d174-be0d-0ba1-998d-7eb7aef337f0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2110,7 +2162,7 @@
     "94339b71-f2aa-8f27-7004-64971118cb7a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Gem Green Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Green.mesh.nasset/Gem Green Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2133,12 +2185,12 @@
     },
     "95e28572-2f17-d496-e637-a4fcbe1a4fdc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Thumbnails/Ship Small.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Thumbnails/Ship Small.mesh.nasset.tex.nasset"
     },
     "9706e30f-cdcc-1578-653e-2a7040a07c11": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Cliff 3.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Cliff 3.mesh.nasset",
         "thumbnail": "dd5da33b-3d22-e16f-8c0f-b3e770a4d15a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2159,7 +2211,7 @@
     },
     "974e0735-e9ae-cd3d-2f3a-1dfab990d162": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Thumbnails/Red Dash.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Thumbnails/Red Dash.mesh.nasset.tex.nasset"
     },
     "97c64dd1-c230-4b15-a5eb-bc3bc2d6751e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2177,7 +2229,7 @@
     "98b40026-218c-cec5-e12a-daff901d0282": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Sword 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Sword 1.mesh.nasset",
         "thumbnail": "331a12b3-b0ec-5549-650a-cad2e856cb0a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2191,7 +2243,7 @@
     "98c68620-8f2d-eff4-063a-751c91e950d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Dock.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Dock.mesh.nasset",
         "thumbnail": "c72535ec-ae02-be97-cee7-55e8e01aa4cd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2204,7 +2256,7 @@
     },
     "9926ebb4-a435-4f45-5bcc-e4df0e9f5a42": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Thumbnails/Dagger.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Thumbnails/Dagger.mesh.nasset.tex.nasset"
     },
     "995772db-50fb-3784-5c5c-4dd7597c94a4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2249,7 +2301,7 @@
     "9e06b0b5-37ea-3f81-ddf8-7be0deb48fd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Bucket Fishes.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket Fishes.mesh.nasset/Bucket Fishes.mesh.nasset",
         "thumbnail": "061e0842-c430-40b3-8513-6899330c5775",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2263,7 +2315,7 @@
     "a00cc350-d5fc-b095-e9cb-53ff9d1565af": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Cliff 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Cliff 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2275,7 +2327,7 @@
     "a0b34a31-722b-e40d-bc01-3a7c58736ff9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Swords.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Swords.mesh.nasset",
         "thumbnail": "d26e21db-ec95-9b14-9116-63c39716e32e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2289,20 +2341,13 @@
     "a0fcfc1a-2ad4-8f0d-e2b9-83dd06c57633": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Double Axe Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Double Axe Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a129605f-7bb9-b133-8ca4-6ee015342fb6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 3.001.mesh.nasset/Cliff 3.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "a1df851c-6f49-43f3-a8d1-574a85f6dc14": {
@@ -2336,7 +2381,7 @@
     "a3ee9faa-475b-415b-a3ea-e8af7856f0ae": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Swords Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Swords Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2350,22 +2395,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Barbarossa/SK_Barbarossa.scene.nasset/Weapon Cutlass.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
-    "a4c9400c-5a07-1ddd-aa34-c6eb8cf2e855": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.001.mesh.nasset/Cliff 4.001 Seven Seas.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4f4fcd93-e327-9951-75df-79c39e088fb4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "a5202bb1-874b-ace8-b846-09ded7eb68a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/PalmTree 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/PalmTree 1.mesh.nasset",
         "thumbnail": "d2b3e134-61c6-5b5f-1587-31073266b4dd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2379,7 +2412,7 @@
     "a5936e75-f8a7-fdb7-88ee-e14efe6ad0c6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Cliff 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Cliff 2.mesh.nasset",
         "thumbnail": "7c14094a-bb80-9a50-5de4-6c0321836011",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2408,7 +2441,7 @@
     },
     "a7cc314a-a799-cd19-da39-8d496823d419": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Thumbnails/Bomb.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bomb.mesh.nasset/Thumbnails/Bomb.mesh.nasset.tex.nasset"
     },
     "a7d69313-d91f-a085-dd38-5699e5fae18f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2446,7 +2479,7 @@
     "a8a4f4be-1794-993f-d199-cd74cf2d508c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Rock 5.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Rock 5.mesh.nasset",
         "thumbnail": "d08e4ccb-7364-f0ad-e2fd-ed685f94499c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2459,7 +2492,7 @@
     },
     "a952330f-8f72-5959-8333-c6d4e898dd4d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Thumbnails/Rock 3.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 3.mesh.nasset/Thumbnails/Rock 3.mesh.nasset.tex.nasset"
     },
     "a95bcfb4-5380-6b1a-77b7-62860ea8d5e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2473,7 +2506,7 @@
     "a97f59d0-5896-f9b3-ffe5-fdc270f2b9af": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Axe Rifle Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Axe Rifle Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2484,12 +2517,12 @@
     },
     "a9a25d69-6cac-978f-92a0-aba6b58c11df": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Thumbnails/Axe Rifle.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe Rifle.mesh.nasset/Thumbnails/Axe Rifle.mesh.nasset.tex.nasset"
     },
     "a9b90e77-2e30-2849-880e-06f4edac4723": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Cannonball.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Cannonball.mesh.nasset",
         "thumbnail": "cd7d87ca-5c53-5cb1-7f88-0bab6558fe36",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2507,16 +2540,16 @@
     },
     "aa29d973-756b-31a4-8f97-b88d897c1118": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/Thumbnails/PalmTree 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 2.mesh.nasset/Thumbnails/PalmTree 2.mesh.nasset.tex.nasset"
     },
     "ab3dedd3-e14a-3cb3-f4a5-fb1cf40d9e4a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Thumbnails/Wood.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Thumbnails/Wood.mesh.nasset.tex.nasset"
     },
     "ab70364b-afda-fb85-ed46-0a8276cf68fa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
         "thumbnail": "7d444793-6f4b-bbec-3111-30d4b35be16b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2530,7 +2563,7 @@
     "ac3f013f-8538-a08e-b29c-029ca68caa41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Double Shotgun.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Shotgun.mesh.nasset/Double Shotgun.mesh.nasset",
         "thumbnail": "72bda891-3002-559e-bece-e2ab8f885d27",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2544,7 +2577,7 @@
     "ac5f3c87-3efb-3412-f192-53e18cc3aac7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Barrel.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Barrel.mesh.nasset",
         "thumbnail": "ae489939-37c4-4f5e-dc05-e1fcbc48e5da",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2565,9 +2598,15 @@
     },
     "ad426412-d5a2-90a2-3bac-c600240ac352": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log Moss.mesh.nasset/Wood Log Moss.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "2d8c7634-149c-ce99-ceea-0b4f71bf03a5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ade9f0b8-5fb2-4803-bbd5-f2cbc675a264": {
@@ -2580,7 +2619,7 @@
     },
     "ae489939-37c4-4f5e-dc05-e1fcbc48e5da": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Thumbnails/Barrel.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Thumbnails/Barrel.mesh.nasset.tex.nasset"
     },
     "ae532e47-1b98-4b7e-832f-6bb51004fae0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2606,7 +2645,7 @@
     "b0a0d617-807a-75ca-ae11-9d0dfdcdc28e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Fish Tuna Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Fish Tuna.mesh.nasset/Fish Tuna Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2617,7 +2656,7 @@
     },
     "b28ea836-5a52-15e4-6cf9-b7c10d679a11": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Thumbnails/Cliff 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 1.mesh.nasset/Thumbnails/Cliff 1.mesh.nasset.tex.nasset"
     },
     "b356ea36-cb08-4135-af05-528dc84c866e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2661,15 +2700,21 @@
     },
     "b4904ef3-c43a-d836-6857-cce346a3db01": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ground 4.mesh.nasset/Ground 4.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "b6f608a6-5b07-716e-5179-288533abc6b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "b4dee6a9-f7bf-3076-b9c0-266b523301eb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Pistol Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Pistol Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2689,7 +2734,7 @@
     "b5da2fe3-d11b-0d15-559d-afa5773dbc0a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2 Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/House 2 Window.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2713,7 +2758,7 @@
     },
     "b6e4fab2-f1a9-b9d8-bd7c-a2c28c5f9355": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Thumbnails/Dock Pole.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Thumbnails/Dock Pole.mesh.nasset.tex.nasset"
     },
     "b6f608a6-5b07-716e-5179-288533abc6b5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2730,7 +2775,7 @@
     "b9257d29-15b1-8202-d7e3-dfcd6aeb797d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Wood.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood.mesh.nasset/Wood.mesh.nasset",
         "thumbnail": "ab3dedd3-e14a-3cb3-f4a5-fb1cf40d9e4a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2744,7 +2789,7 @@
     "b966384f-da7a-bfb6-8e26-f4372398796f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
         "thumbnail": "63793651-2163-3195-2b99-58dc214bd202",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2757,7 +2802,7 @@
     },
     "baa05442-76d1-8e5a-66f5-0ffe5d0a74a9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/Thumbnails/House 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 2.mesh.nasset/Thumbnails/House 2.mesh.nasset.tex.nasset"
     },
     "bb37c7d8-1aa2-a35b-4128-cf6237120a08": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2771,11 +2816,11 @@
     },
     "bb85c153-16d0-f5b0-8e87-312eb22896a8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Thumbnails/Dock Broken.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Broken.mesh.nasset/Thumbnails/Dock Broken.mesh.nasset.tex.nasset"
     },
     "bbc4c5ca-8478-1dbd-8b5d-f2247617435f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Thumbnails/Gold Bag.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Thumbnails/Gold Bag.mesh.nasset.tex.nasset"
     },
     "bc286ed3-9e38-4a48-9718-0cbde1b378f0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2783,13 +2828,6 @@
         "path": "Assets/Characters/Mako/Mako_Run.anim.nasset",
         "dependencies": [
             "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
-        ]
-    },
-    "bf068a26-5f64-1d79-9502-4bcd577a502a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.001.mesh.nasset/Cliff 4.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "bf1a4479-6b4b-ea46-4588-d013a79fd596": {
@@ -2806,7 +2844,7 @@
     },
     "bfb3a2c4-58f8-ed49-ea25-5d3cd2312574": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Window.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Window.mtli.nasset.tex.nasset"
     },
     "bfd0ec8c-9bb5-4e7d-b6be-a99fe32486f4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2840,7 +2878,7 @@
     "c1b42703-c557-4742-3e7e-f9987e90a9f6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
         "thumbnail": "f3c0987e-a4b5-56cc-817d-a2e484bc70f3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2875,7 +2913,7 @@
     "c38f99f6-0a11-9e17-276a-633c4ba64a31": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Lute.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Lute.mesh.nasset",
         "thumbnail": "093296a6-aa00-f753-1152-97f0fd61e345",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2893,7 +2931,7 @@
     "c46a798f-dcfc-cd29-8392-f84fb9e55773": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Bottle 2.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 2.mesh.nasset/Bottle 2.mesh.nasset",
         "thumbnail": "752bf940-ec30-aef1-5e9f-0924eb05db70",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2906,7 +2944,7 @@
     },
     "c4db27c3-5c80-df6d-f84c-9c375cb852df": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Thumbnails/Gold.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold.mesh.nasset/Thumbnails/Gold.mesh.nasset.tex.nasset"
     },
     "c63210da-da00-24f2-9c0b-c7f338662448": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2931,12 +2969,12 @@
     },
     "c72535ec-ae02-be97-cee7-55e8e01aa4cd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Thumbnails/Dock.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock.mesh.nasset/Thumbnails/Dock.mesh.nasset.tex.nasset"
     },
     "c880228d-2d7d-3476-5402-fd0a8350d437": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Large Bones.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Large Bones.mesh.nasset/Large Bones.mesh.nasset",
         "thumbnail": "4671f1e5-93d1-9b58-7fba-4079f7e31e74",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2983,7 +3021,7 @@
     "cb9a447e-a9c9-3a4a-0441-b6462e3dfd19": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
         "thumbnail": "f9b4de0e-2e3a-2ca4-b0cb-7fef859b6c19",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3005,7 +3043,7 @@
     "cd4c4cf7-7b45-f1a9-7479-59edbe577166": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Gem Pink Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Gem Pink Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3016,12 +3054,12 @@
     },
     "cd7d87ca-5c53-5cb1-7f88-0bab6558fe36": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Thumbnails/Cannonball.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Thumbnails/Cannonball.mesh.nasset.tex.nasset"
     },
     "cf056e6e-3585-6ce5-e931-42865a200cc0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Chicken Leg.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Chicken Leg.mesh.nasset",
         "thumbnail": "480ea74a-bf58-dcba-dee5-672272c838bd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3034,12 +3072,12 @@
     },
     "cf65d174-be0d-0ba1-998d-7eb7aef337f0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Thumbnails/Anchor.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Thumbnails/Anchor.mesh.nasset.tex.nasset"
     },
     "d0506e14-6dba-c6ec-e51e-f78225d78c64": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Dock Pole.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dock Pole.mesh.nasset/Dock Pole.mesh.nasset",
         "thumbnail": "b6e4fab2-f1a9-b9d8-bd7c-a2c28c5f9355",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3052,7 +3090,7 @@
     },
     "d08e4ccb-7364-f0ad-e2fd-ed685f94499c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Thumbnails/Rock 5.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Thumbnails/Rock 5.mesh.nasset.tex.nasset"
     },
     "d1467da9-9086-6148-8bd8-7017d04e4219": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3060,17 +3098,23 @@
     },
     "d26e21db-ec95-9b14-9116-63c39716e32e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Thumbnails/Swords.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Swords.mesh.nasset/Thumbnails/Swords.mesh.nasset.tex.nasset"
     },
     "d2b3e134-61c6-5b5f-1587-31073266b4dd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/Thumbnails/PalmTree 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/Thumbnails/PalmTree 1.mesh.nasset.tex.nasset"
     },
     "d2d06fdd-43a0-b807-f8e1-5b88c2dea49a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Flowers.mesh.nasset/Flowers.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "9d3d7241-c623-8bd8-8df4-b82fc9410608",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "d30ee3e7-d554-270c-f965-7646dc5fc9bd": {
@@ -3130,12 +3174,12 @@
     },
     "d5920782-37c4-cfe9-6eec-6a108e84d772": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Thumbnails/Axe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Axe.mesh.nasset/Thumbnails/Axe.mesh.nasset.tex.nasset"
     },
     "d62b8cc7-5c85-dc42-999e-da2abefb0d86": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Red Dash.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Red Dash.mesh.nasset/Red Dash.mesh.nasset",
         "thumbnail": "974e0735-e9ae-cd3d-2f3a-1dfab990d162",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3172,7 +3216,7 @@
     },
     "d8511f43-1299-fac7-5e6f-5fa252c5ae98": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/Thumbnails/House 3.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/Thumbnails/House 3.mesh.nasset.tex.nasset"
     },
     "d8cdda57-ba24-494a-986b-26f7a6dc7a28": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3192,12 +3236,12 @@
     },
     "d99b66f5-2e91-561f-dea2-03251b23e8c6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Thumbnails/Rifle.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Thumbnails/Rifle.mesh.nasset.tex.nasset"
     },
     "da7c48c8-4bc0-9053-2902-84b493a97693": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Gem Pink.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Pink.mesh.nasset/Gem Pink.mesh.nasset",
         "thumbnail": "855651ad-d44d-77d6-8773-570019624ff3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3251,16 +3295,16 @@
     },
     "dd5da33b-3d22-e16f-8c0f-b3e770a4d15a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Thumbnails/Cliff 3.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 3.mesh.nasset/Thumbnails/Cliff 3.mesh.nasset.tex.nasset"
     },
     "de1d9772-9673-bc88-b216-c8688384c2e6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/Thumbnails/PalmTree 3.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/PalmTree 3.mesh.nasset/Thumbnails/PalmTree 3.mesh.nasset.tex.nasset"
     },
     "de74692e-7a70-9288-da07-6c702b8d91c0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Cliff 2 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 2.mesh.nasset/Cliff 2 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3285,7 +3329,7 @@
     "e0609692-1455-56fc-f58b-0a9d5d585b20": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Rifle.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Rifle.mesh.nasset",
         "thumbnail": "d99b66f5-2e91-561f-dea2-03251b23e8c6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3303,7 +3347,7 @@
     "e1193aff-28de-e2b7-7887-fc2bae4858d9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Bucket Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bucket.mesh.nasset/Bucket Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3315,7 +3359,7 @@
     "e225291a-cb01-b440-3441-2edf630a4f02": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/SC_Seven_Seas.scene.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/SC_Seven_Seas.scene.nasset",
         "dependencies": [
             "8f46b608-af31-cb09-2c14-01c28dfe14f1",
             "ac5f3c87-3efb-3412-f192-53e18cc3aac7",
@@ -3354,6 +3398,10 @@
             "a8a4f4be-1794-993f-d199-cd74cf2d508c",
             "50a016c0-0d8e-dc32-7cc9-fcbf00bd735c",
             "42cb6460-36e0-ed44-1852-5840717f13eb",
+            "5df03731-cbe2-297e-2ca6-057999c6a9a2",
+            "ff25ed03-3c28-0672-bb69-cda21481bb80",
+            "806d626a-a30b-94e4-bbc3-3d70a22f1e4b",
+            "b4904ef3-c43a-d836-6857-cce346a3db01",
             "0fdeb362-ac05-f153-24de-278be1abe8a6",
             "85cc35c6-7529-b2a4-e16b-90dea77ab087",
             "3a91a48b-3df1-0396-6a39-5f75c061ea99",
@@ -3378,13 +3426,27 @@
             "f7c2caf1-eab2-4294-ae1f-4ab16be73dbd",
             "b9257d29-15b1-8202-d7e3-dfcd6aeb797d",
             "3a92c280-1e20-d391-dd80-25c2cdbce9a2",
-            "f18de4ba-0678-ce50-0ca2-5b609fc552ea"
+            "f18de4ba-0678-ce50-0ca2-5b609fc552ea",
+            "262c5064-b619-5827-0f9b-ec2efca6dcf6",
+            "d2d06fdd-43a0-b807-f8e1-5b88c2dea49a",
+            "4dd53b29-3ab2-327b-1bf0-c868b305043a",
+            "80a62b0d-0eb2-5d3e-044b-c24a3eeaf548",
+            "325b9540-ba22-bc3f-a2aa-579913a403ef",
+            "26c7cdfb-ae00-bf9a-2027-b28ead68c8a8",
+            "f6fb7ce6-6cbf-0646-c3e4-c02aff0882f0",
+            "4863f16a-bbc2-f810-0e88-97bf240e018a",
+            "0a544762-03a3-2bf6-97f9-be029ef207c1",
+            "590b2c53-b19d-bf2c-303a-84c9674d33b6",
+            "135063f6-0e3e-d9ca-23ca-2153d635c7a0",
+            "65034f31-8656-e9fd-97a5-6d5a4052e5e1",
+            "6d28e85f-eed6-0662-3633-5e6206c709f9",
+            "ad426412-d5a2-90a2-3bac-c600240ac352"
         ]
     },
     "e2810a4a-4f5c-0b1c-7672-2a3de0cc2d74": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Dagger.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Dagger.mesh.nasset",
         "thumbnail": "9926ebb4-a435-4f45-5bcc-e4df0e9f5a42",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3397,11 +3459,11 @@
     },
     "e2d461e8-52c4-ceb1-bab4-a7ee45ceb744": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Thumbnails/Cliff 4.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.mesh.nasset/Thumbnails/Cliff 4.mesh.nasset.tex.nasset"
     },
     "e2f566cd-96c0-2e35-ba85-2a054b794f6b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Thumbnails/Skull.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Thumbnails/Skull.mesh.nasset.tex.nasset"
     },
     "e2f92be9-bd07-e23a-de4c-b05bfe5bb6e2": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3441,7 +3503,7 @@
     "e5ae5ed0-5226-4940-093e-93b9a9e9e6ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Bottle 1.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Bottle 1.mesh.nasset/Bottle 1.mesh.nasset",
         "thumbnail": "5f075701-e83d-4c07-7483-a909f196eb92",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3455,7 +3517,7 @@
     "e5b520d1-f5eb-b81a-891a-0025599aaf8d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Gold Bag.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gold Bag.mesh.nasset/Gold Bag.mesh.nasset",
         "thumbnail": "bbc4c5ca-8478-1dbd-8b5d-f2247617435f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3473,7 +3535,7 @@
     "e62bbc8a-a5b6-195e-9a75-30d2e214f788": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Cannon.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Cannon.mesh.nasset",
         "thumbnail": "f90d3b66-8ef6-075b-8aa5-344f00f7fbeb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3487,7 +3549,7 @@
     "e7cd8ed1-a571-6b0a-5d5e-649ad49c1ad2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Anchor Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Anchor.mesh.nasset/Anchor Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3504,7 +3566,7 @@
     "e84a0c7d-fb5e-38f0-ae0c-fce476fd001a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/House 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3526,7 +3588,7 @@
     "e9ff7c8d-a77f-935f-debc-2853bbbbc203": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 3.mesh.nasset/House 3 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3571,7 +3633,7 @@
     "ee71a4ab-997b-c7c1-05ea-09414c10170d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Rifle Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rifle.mesh.nasset/Rifle Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3583,7 +3645,7 @@
     "f18de4ba-0678-ce50-0ca2-5b609fc552ea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Ship Small.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ship Small.mesh.nasset/Ship Small.mesh.nasset",
         "thumbnail": "95e28572-2f17-d496-e637-a4fcbe1a4fdc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3597,7 +3659,7 @@
     "f1cda5b8-ef81-e018-8bfe-ca691f8f5d63": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Barrel Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Barrel.mesh.nasset/Barrel Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3609,7 +3671,7 @@
     "f38b9e70-0280-c5e2-bc30-a65be9d58919": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Skull Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Skull.mesh.nasset/Skull Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3620,12 +3682,12 @@
     },
     "f3c0987e-a4b5-56cc-817d-a2e484bc70f3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Thumbnails/Rock 2.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Rock 2.mesh.nasset/Thumbnails/Rock 2.mesh.nasset.tex.nasset"
     },
     "f3d9a76a-c758-bf89-9599-bc599076dc8d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Cannonball Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannonball.mesh.nasset/Cannonball Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3637,7 +3699,7 @@
     "f473d42e-7763-5231-e0de-1b70a420607c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Double Axe.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Double Axe.mesh.nasset/Double Axe.mesh.nasset",
         "thumbnail": "1e7332b3-dc92-9f60-a34f-6a24afd4f55d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3651,7 +3713,7 @@
     "f61a9584-9dd1-d247-501d-42faa137e2d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Sword 1 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Sword 1.mesh.nasset/Sword 1 Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3662,9 +3724,15 @@
     },
     "f6fb7ce6-6cbf-0646-c3e4-c02aff0882f0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 1.mesh.nasset/Palm Slim 1.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "43539236-73c8-889c-fe40-b1074d8eebb3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f76a4eb0-ac4a-03c6-9314-b0552f359353": {
@@ -3674,12 +3742,12 @@
     },
     "f79b3f14-b188-64bb-c0ed-0a3d86b8ffd3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Textures/T_Seven_Seas_D.tex.nasset"
+        "path": "Assets/Objects/Textures/T_Seven_Seas_D.tex.nasset"
     },
     "f7c2caf1-eab2-4294-ae1f-4ab16be73dbd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Wheat.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wheat.mesh.nasset/Wheat.mesh.nasset",
         "thumbnail": "147c3aad-1faf-4ba1-a1d6-bc33b3b186e2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3693,7 +3761,7 @@
     "f7d22679-5ffe-e364-861f-710b9ad703c2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Chicken Leg Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Chicken Leg Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3709,7 +3777,7 @@
     },
     "f90d3b66-8ef6-075b-8aa5-344f00f7fbeb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Thumbnails/Cannon.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cannon.mesh.nasset/Thumbnails/Cannon.mesh.nasset.tex.nasset"
     },
     "f914da56-289d-4fb6-9acf-53422d488676": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3717,7 +3785,7 @@
     },
     "f9b4de0e-2e3a-2ca4-b0cb-7fef859b6c19": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Thumbnails/Pistol.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Pistol.mesh.nasset/Thumbnails/Pistol.mesh.nasset.tex.nasset"
     },
     "fa552026-5ff2-5e41-ea25-2168eb8b135c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3741,19 +3809,7 @@
     "fc85e91c-c80e-c199-145b-43bfd5488a7c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Lute Seven Seas.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4f4fcd93-e327-9951-75df-79c39e088fb4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "fcc4aa2c-804f-d8f1-8d73-b4fa4be6d75d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 1.001.mesh.nasset/Cliff 1.001 Seven Seas.mesh.nasset",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Lute Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3764,7 +3820,7 @@
     },
     "fd27d9d9-d354-96e9-7124-c9782ff21a17": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Thumbnails/Gem Blue.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Gem Blue.mesh.nasset/Thumbnails/Gem Blue.mesh.nasset.tex.nasset"
     },
     "fd322ef8-570c-b13e-395a-495fca5e53ea": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3784,14 +3840,20 @@
     },
     "ff25ed03-3c28-0672-bb69-cda21481bb80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Ground 2.mesh.nasset/Ground 2.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "94f24de5-6ff9-13be-c60e-ca5e0244e176",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ff6f4500-b44f-0e21-cdb8-d6bd0d7c9134": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/Thumbnails/House 1.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/House 1.mesh.nasset/Thumbnails/House 1.mesh.nasset.tex.nasset"
     },
     "guid": "94b6ddbe-7c35-bee0-12e8-eb84f8ba08a2"
 }
