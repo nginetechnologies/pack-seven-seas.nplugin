@@ -142,6 +142,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Lute.mesh.nasset/Thumbnails/Lute.mesh.nasset.tex.nasset"
     },
+    "0a544762-03a3-2bf6-97f9-be029ef207c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 3.mesh.nasset/Palm Slim 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "0ab91624-8e17-f59f-bbcd-5920f2c9aae6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Shark/Textures/T_Seven_Seas_D.tex.nasset"
@@ -296,6 +303,13 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "135063f6-0e3e-d9ca-23ca-2153d635c7a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump.mesh.nasset/Stump.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "143dd714-2e4a-14ad-ea71-80c04775c4b9": {
@@ -494,6 +508,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Skeleton/Thumbnails/Skeleton.scene.nasset.tex.nasset"
     },
+    "1f44261b-448d-ed9c-0c5b-538d6e43bc9f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump Moss.mesh.nasset/Stump Moss Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "1f4b1c8d-dfd8-efe6-4930-ee5f68594183": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -547,6 +573,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "23b39e11-ab2d-4d50-784d-6b7bc6ac9bbd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 4.mesh.nasset/Palm Slim 4 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "250214dc-0fa1-30d3-576b-49b518e2ed77": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Red X.mesh.nasset/Thumbnails/Red X.mesh.nasset.tex.nasset"
@@ -574,6 +612,13 @@
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "5f70a417-eaa3-b630-d2a5-81fe71cbd5f3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26c7cdfb-ae00-bf9a-2027-b28ead68c8a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lilypad.mesh.nasset/Lilypad.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "27683f74-0eae-4cd3-9a4e-3169d995ad7a": {
@@ -675,6 +720,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2d8c7634-149c-ce99-ceea-0b4f71bf03a5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log Moss.mesh.nasset/Wood Log Moss Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3030aebf-9385-625a-a2d4-8e3407bfc0de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 2.mesh.nasset/Palm Slim 2 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "30fb23ab-37b5-12a2-9a6b-a7c23214faaf": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -683,6 +752,13 @@
             "d30ee3e7-d554-270c-f965-7646dc5fc9bd",
             "a4731a98-c04e-4034-1f39-204002b89be5",
             "6c11faa7-8e6e-3bf6-dee3-975c2a905750"
+        ]
+    },
+    "325b9540-ba22-bc3f-a2aa-579913a403ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 3.mesh.nasset/Grass 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "329ecee9-44f5-7678-65fb-c48ab2e49a1d": {
@@ -917,6 +993,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "43539236-73c8-889c-fe40-b1074d8eebb3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 1.mesh.nasset/Palm Slim 1 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4374fe32-7f23-99e5-0932-778a5141feb1": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1010,6 +1098,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Chicken Leg.mesh.nasset/Thumbnails/Chicken Leg.mesh.nasset.tex.nasset"
     },
+    "4863f16a-bbc2-f810-0e88-97bf240e018a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 2.mesh.nasset/Palm Slim 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "48d4dc8b-4306-8774-f2e3-a124d0bf3c80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1066,6 +1161,13 @@
         "path": "Assets/Characters/Anne/SK_Anne.scene.nasset/SK_Anne.scene.nasset",
         "dependencies": [
             "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
+        ]
+    },
+    "4dd53b29-3ab2-327b-1bf0-c868b305043a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 1.mesh.nasset/Grass 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "4e989a93-5214-4248-9e99-5bb5413dc367": {
@@ -1179,10 +1281,29 @@
             "68ff23b1-8497-9c32-db1b-d559d772ab03"
         ]
     },
+    "590b2c53-b19d-bf2c-303a-84c9674d33b6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 4.mesh.nasset/Palm Slim 4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "599d0aab-0a99-8615-a644-a2998ce9ee59": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Rock 5.mesh.nasset/Rock 5 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5ab0d7cf-52e9-2c2d-282c-c31e02d85888": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log.mesh.nasset/Wood Log Seven Seas.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1371,6 +1492,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "65034f31-8656-e9fd-97a5-6d5a4052e5e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump Moss.mesh.nasset/Stump Moss.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "65804108-a8f7-634b-1578-b7192850eafc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Henry/Textures/T_Seven_Seas_D.tex.nasset"
@@ -1461,6 +1589,13 @@
     "6c94cad4-59c0-8861-3465-cb266a519bb4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Sawmill.mesh.nasset/Thumbnails/Sawmill.mesh.nasset.tex.nasset"
+    },
+    "6d28e85f-eed6-0662-3633-5e6206c709f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log.mesh.nasset/Wood Log.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "6d9141bb-9213-c02c-9f92-62f3faed62ae": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1555,6 +1690,18 @@
         "path": "Assets/Characters/Mako/Mako_Jump_End.anim.nasset",
         "dependencies": [
             "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+        ]
+    },
+    "75050a88-f690-5029-c1e8-199b116e5b96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 3.mesh.nasset/Palm Slim 3 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "752bf940-ec30-aef1-5e9f-0924eb05db70": {
@@ -1664,6 +1811,13 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "80a62b0d-0eb2-5d3e-044b-c24a3eeaf548": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 2.mesh.nasset/Grass 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "81b8bf46-6bba-7371-4814-169c19969f61": {
@@ -1877,6 +2031,18 @@
             "fa552026-5ff2-5e41-ea25-2168eb8b135c"
         ]
     },
+    "8d6342a7-973a-0336-02e2-e202b2c9cffb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 2.mesh.nasset/Grass 2 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8d66be09-dce2-963c-cc88-6e41bf95e20c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Tentacle/Textures/T_Seven_Seas_D.tex.nasset"
@@ -2040,9 +2206,33 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/Dagger.mesh.nasset/Thumbnails/Dagger.mesh.nasset.tex.nasset"
     },
+    "995772db-50fb-3784-5c5c-4dd7597c94a4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Stump.mesh.nasset/Stump Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9b91d414-5987-b5bf-939d-83d2e6090c71": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mako/Material Instances/Thumbnails/Mako.mtli.nasset.tex.nasset"
+    },
+    "9d3d7241-c623-8bd8-8df4-b82fc9410608": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Flowers.mesh.nasset/Flowers Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "9df2c5b1-7794-d330-52b6-2d103e022b73": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2373,6 +2563,13 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "ad426412-d5a2-90a2-3bac-c600240ac352": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Wood Log Moss.mesh.nasset/Wood Log Moss.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "ade9f0b8-5fb2-4803-bbd5-f2cbc675a264": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2593,6 +2790,18 @@
         "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Cliff 4.001.mesh.nasset/Cliff 4.001.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bf1a4479-6b4b-ea46-4588-d013a79fd596": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Lilypad.mesh.nasset/Lilypad Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "bfb3a2c4-58f8-ed49-ea25-5d3cd2312574": {
@@ -2857,6 +3066,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Seven_Seas.scene.nasset/PalmTree 1.mesh.nasset/Thumbnails/PalmTree 1.mesh.nasset.tex.nasset"
     },
+    "d2d06fdd-43a0-b807-f8e1-5b88c2dea49a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Flowers.mesh.nasset/Flowers.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d30ee3e7-d554-270c-f965-7646dc5fc9bd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2933,6 +3149,18 @@
     "d653e301-89d4-6074-5ec6-80fa37493980": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Skeleton/SK_Skeleton.scene.nasset/SK Skeleton.mesh.nasset/Thumbnails/SK Skeleton.mesh.nasset.tex.nasset"
+    },
+    "d76e1728-cc5a-7757-39e3-9670a8aa9875": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 1.mesh.nasset/Grass 1 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "d7ab1939-6333-48b3-b5a7-6b906962b581": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3307,6 +3535,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "eb74e662-c4e9-fde1-2d0f-78566316e719": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Grass 3.mesh.nasset/Grass 3 Seven Seas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4fcd93-e327-9951-75df-79c39e088fb4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ed3ad9e0-8a92-4573-67b1-8acbea22e7a4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mako/Material Instances/Mako.mtli.nasset",
@@ -3418,6 +3658,13 @@
         "dependencies": [
             "4f4fcd93-e327-9951-75df-79c39e088fb4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f6fb7ce6-6cbf-0646-c3e4-c02aff0882f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Seven_Seas.scene.nasset/Palm Slim 1.mesh.nasset/Palm Slim 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "f76a4eb0-ac4a-03c6-9314-b0552f359353": {

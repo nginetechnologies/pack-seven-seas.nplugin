@@ -2397,6 +2397,271 @@
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "262c5064-b619-5827-0f9b-ec2efca6dcf6"
             }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3055a38b-7560-b925-c8c7-b441a305a52b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flowers"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2d06fdd-43a0-b807-f8e1-5b88c2dea49a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65b0c380-03be-251f-d5f0-2da138d3e0d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 1"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0,
+                    2.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4dd53b29-3ab2-327b-1bf0-c868b305043a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce013ba6-c682-6b24-4dc0-0f42b0904f4e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0,
+                    1.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "80a62b0d-0eb2-5d3e-044b-c24a3eeaf548"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2edbc3bc-12fc-d226-46ee-c24b0657c52c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    2.0,
+                    0.0
+                ],
+                "scale": [
+                    1.0,
+                    0.3367,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "325b9540-ba22-bc3f-a2aa-579913a403ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "10312351-1518-223a-7659-7ef2fdcc7165",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lilypad"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0,
+                    4.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "26c7cdfb-ae00-bf9a-2027-b28ead68c8a8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b0d43802-85c0-301d-0afd-9b244af21760",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Palm Slim 1"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    5.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f6fb7ce6-6cbf-0646-c3e4-c02aff0882f0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "229c5605-1fe5-5379-23a9-0c73eb5e704c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Palm Slim 2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    17.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4863f16a-bbc2-f810-0e88-97bf240e018a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9ba83143-ab1e-fc4b-5f2a-e5ccb5ad9514",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Palm Slim 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    8.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0a544762-03a3-2bf6-97f9-be029ef207c1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e9536eb5-2048-09a5-0213-9c9be2c966cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Palm Slim 4"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    12.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "590b2c53-b19d-bf2c-303a-84c9674d33b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ee3e0deb-f427-887d-4ddf-780e60d27372",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stump"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "135063f6-0e3e-d9ca-23ca-2153d635c7a0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1afc805-656b-55eb-e372-7d74362d3b1d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stump Moss"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    2.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "65034f31-8656-e9fd-97a5-6d5a4052e5e1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "23bb2e29-5ad4-ae2a-86cc-55d77961ff39",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Log"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0,
+                    4.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d28e85f-eed6-0662-3633-5e6206c709f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb6a8dba-2272-5096-8d4f-f5cb428b97c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Log Moss"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0,
+                    1.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ad426412-d5a2-90a2-3bac-c600240ac352"
+            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2469,6 +2734,19 @@
         "b9257d29-15b1-8202-d7e3-dfcd6aeb797d",
         "3a92c280-1e20-d391-dd80-25c2cdbce9a2",
         "f18de4ba-0678-ce50-0ca2-5b609fc552ea",
-        "262c5064-b619-5827-0f9b-ec2efca6dcf6"
+        "262c5064-b619-5827-0f9b-ec2efca6dcf6",
+        "d2d06fdd-43a0-b807-f8e1-5b88c2dea49a",
+        "4dd53b29-3ab2-327b-1bf0-c868b305043a",
+        "80a62b0d-0eb2-5d3e-044b-c24a3eeaf548",
+        "325b9540-ba22-bc3f-a2aa-579913a403ef",
+        "26c7cdfb-ae00-bf9a-2027-b28ead68c8a8",
+        "f6fb7ce6-6cbf-0646-c3e4-c02aff0882f0",
+        "4863f16a-bbc2-f810-0e88-97bf240e018a",
+        "0a544762-03a3-2bf6-97f9-be029ef207c1",
+        "590b2c53-b19d-bf2c-303a-84c9674d33b6",
+        "135063f6-0e3e-d9ca-23ca-2153d635c7a0",
+        "65034f31-8656-e9fd-97a5-6d5a4052e5e1",
+        "6d28e85f-eed6-0662-3633-5e6206c709f9",
+        "ad426412-d5a2-90a2-3bac-c600240ac352"
     ]
 }
